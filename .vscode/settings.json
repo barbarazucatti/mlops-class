@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5222,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "aula2",
+            "database": "mlhdb",
+            "username": "mlh"
+        }
+    ]
+}

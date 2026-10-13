@@ -1,0 +1,24 @@
+# Segredos / credenciais
+rootkey.csv
+*.pem
+*.key
+*.tfvars
+*.tfstate
+*.tfstate.*
+
+# Terraform
+.terraform/
+.terraform.lock.hcl.bak
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Airflow
+Aula_4/moduloairflow/logs/
+
+# Sistema / editor
+.DS_Store

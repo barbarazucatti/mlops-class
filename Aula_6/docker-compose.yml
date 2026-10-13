@@ -1,0 +1,12 @@
+# Aula 6 - Construindo e Operacionalizando Pipeline de Previsão em Tempo Real
+
+services:
+  app:
+    build: .
+    container_name: aula6
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./modelo:/app/modelo
+      - ./dados:/app/dados
+    restart: always

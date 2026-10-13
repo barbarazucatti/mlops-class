@@ -1,0 +1,16 @@
+id,produto,marca,preco,quantidade_em_estoque,categoria
+1,Smartphone,Samsung,1500,50,Celulares
+2,Laptop,Apple,8000,30,Computadores
+3,Tablet,Xiaomi,1200,20,Tablets
+4,Smartwatch,Samsung,900,40,Wearables
+5,Câmera Digital,Canon,2500,10,Câmeras
+6,Fone de Ouvido,Sony,300,100,Acessórios
+7,TV,LG,2500,25,TVs
+8,Roteador,TP-Link,200,60,Redes
+9,Impressora,HP,800,15,Impressoras
+10,Teclado,Logitech,150,70,Periféricos
+11,Mouse,Logitech,100,80,Periféricos
+12,Monitor,Dell,1000,20,Monitores
+13,Caixa de Som,JBL,400,50,Áudio
+14,Carregador,Anker,80,90,Acessórios
+15,Pendrive,Sandisk,50,200,Armazenamento
