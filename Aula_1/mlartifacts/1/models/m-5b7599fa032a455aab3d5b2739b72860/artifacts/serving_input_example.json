@@ -1,0 +1,28 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "temperatura_media",
+      "precipitacao",
+      "fim_de_semana",
+      "feriado",
+      "preco_por_kg",
+      "promocao",
+      "demanda_dos_dias_anteriores",
+      "preco_por_kg_do_concorrente",
+      "intensidade_de_marketing"
+    ],
+    "data": [
+      [
+        11.579616870356748,
+        2.4723891302760315,
+        0,
+        0,
+        1.147717039233116,
+        0,
+        1389.7876028470089,
+        1.893445294335956,
+        0.7195066131746826
+      ]
+    ]
+  }
+}
