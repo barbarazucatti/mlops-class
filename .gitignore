@@ -11,7 +11,7 @@ rootkey.csv
 .terraform.lock.hcl.bak
 
 # Python
-venv/
+*venv/
 .venv/
 __pycache__/
 *.pyc
@@ -24,8 +24,5 @@ Aula_4/moduloairflow/logs/
 .DS_Store
 
 # Aulas ainda não publicadas (mantidas apenas localmente)
-Aula_3/
-Aula_4/
-Aula_5/
 Aula_6/
 Aula_7/
