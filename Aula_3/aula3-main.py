@@ -3,10 +3,10 @@
 
 # Imports
 import os
-from mlops.Aula_3.feature_store.feature_engineering import carrega_dados, cria_atributos, salva_atributos
-from mlops.Aula_3.feature_store.feature_store import FeatureStore
-from mlops.Aula_3.ml_pipeline.model_training import treina_modelo
-from mlops.Aula_3.ml_pipeline.model_inference import inferencia
+from feature_store.feature_engineering import carrega_dados, cria_atributos, salva_atributos
+from feature_store.feature_store import FeatureStore
+from ml_pipeline.model_training import treina_modelo
+from ml_pipeline.model_inference import inferencia
 
 # Caminhos de arquivos
 RAW_DATA_PATH = 'dados/dados_brutos.csv'

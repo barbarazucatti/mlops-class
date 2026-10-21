@@ -4,7 +4,7 @@
 # Imports
 import unittest
 import pandas as pd
-from mlops.Aula_3.feature_store.feature_store import FeatureStore
+from feature_store.feature_store import FeatureStore
 
 # Classe
 class TestFeatureStore(unittest.TestCase):

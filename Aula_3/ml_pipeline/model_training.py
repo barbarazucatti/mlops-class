@@ -4,7 +4,7 @@
 # Imports
 import joblib
 import pandas as pd
-from mlops.Aula_3.feature_store.feature_store import FeatureStore
+from feature_store.feature_store import FeatureStore
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from sklearn.ensemble import RandomForestClassifier
